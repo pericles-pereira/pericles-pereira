@@ -1,4 +1,3 @@
-
 # Péricles Pereira
 
 **Desenvolvedor de Software | Full Stack**
