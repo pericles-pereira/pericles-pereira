@@ -39,17 +39,6 @@ Atuo no desenvolvimento de soluções web utilizadas em ambiente de produção, 
 
 Os projetos comerciais em que atuei possuem código-fonte privado. Os repositórios públicos deste perfil apresentam estudos e implementações técnicas independentes.
 
-## Projetos públicos
-
-### [Alura Series](https://github.com/pericles-pereira/alura-series-laravel)
-Aplicação desenvolvida durante uma formação da Alura para explorar Laravel, arquitetura MVC e APIs.
-
-### [Next.js Monorepo](https://github.com/pericles-pereira/monorepo-architecture)
-Projeto de estudo sobre organização de aplicações frontend utilizando Next.js e arquitetura monorepo.
-
-### [Design Patterns](https://github.com/pericles-pereira/design-patterns)
-Exercícios práticos de padrões de projeto criacionais, estruturais e comportamentais utilizando PHP.
-
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/pericles-pereira/)
