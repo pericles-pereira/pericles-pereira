@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**pericles-pereira/pericles-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Péricles Pereira
 
-Here are some ideas to get you started:
+**Desenvolvedor de Software | Full Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor de software com experiência na criação e manutenção de aplicações web, APIs REST e integrações entre sistemas. Atuo com PHP, Laravel, React e Next.js, participando de todo o ciclo de desenvolvimento, da definição da arquitetura à implantação e sustentação em produção.
+
+Minha experiência profissional inclui o desenvolvimento integral de uma plataforma comercial de cursos, com painel administrativo, API própria, landing pages e integrações com serviços de pagamento.
+
+## Tecnologias
+
+**Backend**
+- PHP, Laravel e APIs REST
+- Autenticação, autorização e regras de negócio
+- Jobs, eventos, notificações e integrações
+
+**Frontend**
+- JavaScript, TypeScript, React e Next.js
+- Inertia.js, Material UI e Tailwind CSS
+
+**Bancos de dados**
+- MySQL e PostgreSQL
+- Modelagem de dados relacionais
+
+**Testes e infraestrutura**
+- PHPUnit e Pest
+- Git, GitHub e Linux
+- AWS e sustentação de aplicações web
+
+## Experiência profissional
+
+Atuo no desenvolvimento de soluções web utilizadas em ambiente de produção, com experiência em:
+
+- Arquitetura e desenvolvimento de aplicações Full Stack.
+- Criação de APIs e integração entre diferentes aplicações.
+- Integrações com Asaas, Pagar.me, Vindi e Getnet.
+- Implementação de checkout, pagamentos e cobranças recorrentes.
+- Testes automatizados, manutenção e diagnóstico de falhas.
+
+Os projetos comerciais em que atuei possuem código-fonte privado. Os repositórios públicos deste perfil apresentam estudos e implementações técnicas independentes.
+
+## Projetos públicos
+
+### [Alura Series](https://github.com/pericles-pereira/alura-series-laravel)
+Aplicação desenvolvida durante uma formação da Alura para explorar Laravel, arquitetura MVC e APIs.
+
+### [Next.js Monorepo](https://github.com/pericles-pereira/monorepo-architecture)
+Projeto de estudo sobre organização de aplicações frontend utilizando Next.js e arquitetura monorepo.
+
+### [Design Patterns](https://github.com/pericles-pereira/design-patterns)
+Exercícios práticos de padrões de projeto criacionais, estruturais e comportamentais utilizando PHP.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/pericles-pereira/)
+- [Formações e certificados — Alura](https://cursos.alura.com.br/user/pericles-pereira/fullCertificate/af2b829c701d0edb4e4f8fec934cdfe6)
